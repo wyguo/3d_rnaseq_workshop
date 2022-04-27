@@ -2,11 +2,12 @@
 27-28 April 2022 - University of São Paulo
 
   - Example data for hand-on sessions: https://www.dropbox.com/s/8fsceneq8jlegwi/3D_RNAseq_example_data.zip?dl=0 
+    
     Click “Download” and unzip, you will get three datasets:
     
-      o	Galaxy_example_data: example data for transcript quantification using Galaxy
-      o	Arabidopsis_cold: example data for 3D RNA-seq analysis
-      o	Embryonic_mice: example data for homework and practice
+      + Galaxy_example_data: example data for transcript quantification using Galaxy
+      + Arabidopsis_cold: example data for 3D RNA-seq analysis
+      + Embryonic_mice: example data for homework and practice
       
 •	3D RNA-seq App user manual: https://github.com/wyguo/ThreeDRNAseq/tree/master/vignettes/user_manuals
 •	Galaxy Europe link: https://usegalaxy.eu/ 
