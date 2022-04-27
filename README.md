@@ -3,6 +3,7 @@
 
   - Example data for hand-on sessions: https://www.dropbox.com/s/8fsceneq8jlegwi/3D_RNAseq_example_data.zip?dl=0 
     Click “Download” and unzip, you will get three datasets:
+    
       o	Galaxy_example_data: example data for transcript quantification using Galaxy
       o	Arabidopsis_cold: example data for 3D RNA-seq analysis
       o	Embryonic_mice: example data for homework and practice
