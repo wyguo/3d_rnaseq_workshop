@@ -1,7 +1,8 @@
 # Welcome to the 3D RNA-seq App workshop!
 27-28 April 2022 - University of São Paulo
 
-  - Example data for hand-on sessions: https://www.dropbox.com/s/8fsceneq8jlegwi/3D_RNAseq_example_data.zip?dl=0 
+  - 3D RNA-seq sample data for 28 April: https://www.dropbox.com/s/8vwuz6u2yl7v9qx/3D%20RNA-seq%20App%20example%20data.zip?dl=0
+  - Full example data for hand-on sessions: https://www.dropbox.com/s/8fsceneq8jlegwi/3D_RNAseq_example_data.zip?dl=0 
     
     Click “Download” and unzip, you will get three datasets:
     
